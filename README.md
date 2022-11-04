@@ -63,7 +63,10 @@ context.xml의 하단에 추가
 
 </details>
 
-3. final_hobbyplanet.zip 파일 다운 받아 STS에 import후 실행
+3. CreateSQL를 복사하여 Oracle SQL Developer에 실행 후 커밋
+
+4. final_hobbyplanet.zip 파일 다운 받아 STS에 import후 
+
 
 
 
