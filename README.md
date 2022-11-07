@@ -15,9 +15,32 @@
                    
 &nbsp;
 
-## 3. 사용한 운영시스템(S/W)아키텍쳐
-   
-  
+## 3. Tech stack & Open-source libraries
+### front-end
+- HTML
+- CSS
+- Js
+- jQuery(bxSlider)
+
+### back-end
+- Spring 
+- java8 
+- JSP
+- Ajax
+- Maven
+- mybatis
+
+### DB
+- Oracle RDBMS
+
+### 외부 API
+- 다음(카카오) 우편번호 서비스 API
+
+# Environment
+- OS : Windows
+- Tool : Spring Tool Suit, Visual Studio Code
+- Server : Apachi tomcat 9
+- 형상관리 : GitHub, Notion
   
 &nbsp;
   
