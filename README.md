@@ -38,7 +38,7 @@
 
 # Environment
 - OS : Windows
-- Tool : Spring Tool Suit, Visual Studio Code
+- Tool : Spring Tool Suite, Visual Studio Code
 - Server : Apachi tomcat 9
 - 형상관리 : GitHub, Notion
   
