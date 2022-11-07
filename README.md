@@ -64,7 +64,7 @@
   
 ## 6. 실행 방법
 <details>
-<summary>1. Final-Project용 계정 생성</summary>
+<summary>1. Final-Project용 계정 생성.</summary>
 계정이름: final 
 비번: tiger
 
@@ -77,7 +77,7 @@
 
 
 <details>
-<summary>2. Spring Tool Suit의 Server의 Tomcat에 추가</summary>
+<summary>2. Spring Tool Suit의 Server의 Tomcat에 추가.</summary>
 context.xml의 하단에 추가
 
     <Resource auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" maxActive="100"
@@ -86,7 +86,7 @@ context.xml의 하단에 추가
 
 </details>
 
-3. CreateSQL를 복사하여 Oracle SQL Developer에 실행 후 커밋
+3. CreateSQL를 복사하여 Oracle SQL Developer에 실행 후 commit.
 
-4. final_hobbyplanet.zip 파일 다운 받아 STS에 import후 실행
+4. final_hobbyplanet.zip 파일 다운 받아 STS에 import후 실행.
 
